@@ -9,6 +9,6 @@ Here are the title of all three Projects I have completed:
 
 Below is the certificate I have received after completing my Virtual Internship: 
 
-[PwC Certificate.pdf](https://github.com/Ankush-Verma-2807/PWC-Power-BI-Virtual-Internship-Projects/files/14077255/PwC.Certificate.pdf)
+![PwC Certificate](https://github.com/Ankush-Verma-2807/PWC-Power-BI-Virtual-Internship-Projects/assets/155877268/6d054cc9-8138-4a27-99eb-1c088c24f06a)
 
 Thanks for studying my portfolio projects. I am curious to know about your feedback and I am open to any opportunity you could provide. 
